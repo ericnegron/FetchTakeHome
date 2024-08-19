@@ -1,6 +1,6 @@
 # FetchTakeHome
 The FetchTakeHome app allows a user to see recipes for popular deserts.
-It uses [TheMealDB](https://themealdb.com/api.php) public API to show a list of desserts and their respective recipe.
+It uses [TheMealDB](https://themealdb.com/api.php) public API to show a list of desserts and their respective recipes.
 
 ## Testing
 The FetchTakeHome app should run directly in the XCode simulator for ease of testing.  No external dependencies are required.
